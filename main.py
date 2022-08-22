@@ -1,7 +1,7 @@
 
-#Reference:
-    #This code is a modification of the Anshul Sachdev in this below link: 
-    #https://medium.com/acmvit/how-to-project-an-image-in-perspective-view-of-a-background-image-opencv-python-d101bdf966bc
+# Reference
+#This code is a modification of the Anshul Sachdev in this below link: 
+#https://medium.com/acmvit/how-to-project-an-image-in-perspective-view-of-a-background-image-opencv-python-d101bdf966bc
 
 import cv2
 import matplotlib.pyplot as plt
